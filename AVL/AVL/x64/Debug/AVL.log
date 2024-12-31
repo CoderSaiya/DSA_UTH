@@ -1,0 +1,22 @@
+﻿  AVL.cpp
+C:\Users\admin\Documents\WorkSpace\CTDL&GT\Huy\AVL\AVL\AVL.cpp(14,11): warning C4101: 'n': unreferenced local variable
+  AVL_Tree.cpp
+C:\Users\admin\Documents\WorkSpace\CTDL&GT\Huy\AVL\AVL\AVL_Tree.cpp(182,16): error C2511: 'void AVL_tree::deleteNode(NodeSV *)': overloaded member function not found in 'AVL_tree'
+C:\Users\admin\Documents\WorkSpace\CTDL&GT\Huy\AVL\AVL\AVL_tree.h(7): message : see declaration of 'AVL_tree'
+C:\Users\admin\Documents\WorkSpace\CTDL&GT\Huy\AVL\AVL\AVL_Tree.cpp(184,8): error C2671: 'AVL_tree::deleteNode': static member functions do not have 'this' pointers
+C:\Users\admin\Documents\WorkSpace\CTDL&GT\Huy\AVL\AVL\AVL_Tree.cpp(191,26): error C2039: 'Getkey': is not a member of 'NodeSV'
+C:\Users\admin\Documents\WorkSpace\CTDL&GT\Huy\AVL\AVL\NodeSV.h(8): message : see declaration of 'NodeSV'
+C:\Users\admin\Documents\WorkSpace\CTDL&GT\Huy\AVL\AVL\AVL_Tree.cpp(192,16): error C2039: 'Setmssv': is not a member of 'NodeSV'
+C:\Users\admin\Documents\WorkSpace\CTDL&GT\Huy\AVL\AVL\NodeSV.h(8): message : see declaration of 'NodeSV'
+C:\Users\admin\Documents\WorkSpace\CTDL&GT\Huy\AVL\AVL\AVL_Tree.cpp(193,16): error C2039: 'Setmssv': is not a member of 'NodeSV'
+C:\Users\admin\Documents\WorkSpace\CTDL&GT\Huy\AVL\AVL\NodeSV.h(8): message : see declaration of 'NodeSV'
+C:\Users\admin\Documents\WorkSpace\CTDL&GT\Huy\AVL\AVL\AVL_Tree.cpp(194,16): error C2039: 'Setmssv': is not a member of 'NodeSV'
+C:\Users\admin\Documents\WorkSpace\CTDL&GT\Huy\AVL\AVL\NodeSV.h(8): message : see declaration of 'NodeSV'
+C:\Users\admin\Documents\WorkSpace\CTDL&GT\Huy\AVL\AVL\AVL_Tree.cpp(195,16): error C2039: 'Setmssv': is not a member of 'NodeSV'
+C:\Users\admin\Documents\WorkSpace\CTDL&GT\Huy\AVL\AVL\NodeSV.h(8): message : see declaration of 'NodeSV'
+C:\Users\admin\Documents\WorkSpace\CTDL&GT\Huy\AVL\AVL\AVL_Tree.cpp(197,16): error C2671: 'AVL_tree::deleteNode': static member functions do not have 'this' pointers
+C:\Users\admin\Documents\WorkSpace\CTDL&GT\Huy\AVL\AVL\AVL_Tree.cpp(205,26): error C2039: 'Getkey': is not a member of 'NodeSV'
+C:\Users\admin\Documents\WorkSpace\CTDL&GT\Huy\AVL\AVL\NodeSV.h(8): message : see declaration of 'NodeSV'
+  Node.cpp
+  NodeSV.cpp
+  Generating Code...
